@@ -3,10 +3,10 @@ const mineflayer = require("mineflayer");
 const botUsernames = ["b1", "b2"];
 
 const botConfigBase = {
-  host: "gt_chad.aternos.me",
-  port: 36035,
-  version: "1.21.4",
-  auth: "offline",
+  host: "your_server_ip",
+  port: your_server_port,
+  version: "1.21.6", // Match your Minecraft server version
+  auth: "offline",   // Use "microsoft" if using official accounts
 };
 
 const bots = {};

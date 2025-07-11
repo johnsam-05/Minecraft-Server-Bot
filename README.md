@@ -67,10 +67,8 @@ Once connected, each bot will:
 - Check firewall and port settings if bots can’t connect
 - Use the same version as your Minecraft server
 
-## License
 
-MIT License
 
 ---
 
-Created by [Your Name](https://github.com/yourusername)
+Created by [John Samuel](https://github.com/johnsam-05)
