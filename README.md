@@ -67,6 +67,14 @@ Once connected, each bot will:
 - Check firewall and port settings if bots can’t connect
 - Use the same version as your Minecraft server
 
+## License & Usage
+
+© 2025 John Samuel. All rights reserved.
+
+This project is shared for educational and portfolio purposes only.  
+Unauthorized copying, distribution, or reuse of any part of this code is prohibited without prior permission.
+
+
 
 
 ---
